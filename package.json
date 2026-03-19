@@ -1,12 +1,12 @@
 {
-  "name": "webpack-hot-client",
+  "name": "@cbilotta/webpack-hot-client",
   "version": "4.1.1",
   "description": "A client for enabling, and interacting with, webpack Hot Module Replacement",
   "license": "MIT",
-  "repository": "webpack-contrib/webpack-hot-client",
+  "repository": "cbilotta/webpack-hot-client",
   "author": "Andrew Powell <andrew@shellscape.org>",
-  "homepage": "https://github.com/webpack-contrib/webpack-hot-client",
-  "bugs": "https://github.com/webpack-contrib/webpack-hot-client/issues",
+  "homepage": "https://github.com/cbilotta/webpack-hot-client",
+  "bugs": "https://github.com/cbilotta/webpack-hot-client/issues",
   "bin": "",
   "main": "lib/index.js",
   "engines": {
@@ -44,7 +44,7 @@
     "README.md"
   ],
   "peerDependencies": {
-    "webpack": "5.92.1"
+    "webpack": "^5.0.0"
   },
   "dependencies": {
     "@webpack-contrib/schema-utils": "^1.0.0-beta.0",
